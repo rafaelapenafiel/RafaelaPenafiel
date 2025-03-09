@@ -1,12 +1,14 @@
-<h2 align="left">Hi 👋! My name is Rafaela Penafiel and I'm a student, from FATEC Professor Jessen Vidal - SJC</h2>
-
 #
-![](https://github-readme-stats.vercel.app/api?username=rafaelapenafiel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelapenafiel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=rafaelapenafiel&theme=nightowl&hide_border=false)<br/>
+<div align="center">
+<h2>Eu sou Rafaela Penafiel:</h2>
+</div>
 
+![](https://github-readme-stats.vercel.app/api?username=rafaelapenafiel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=rafaelapenafiel&theme=nightowl&hide_border=false)<br/>
 ###
 ![](https://github-profile-trophy.vercel.app/?username=rafaelapenafiel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelapenafiel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ###
 <div align="left">
