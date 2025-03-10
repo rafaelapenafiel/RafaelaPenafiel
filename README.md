@@ -1,6 +1,7 @@
-#
 <div align="center">
-<h2>Eu sou Rafaela Penafiel:</h2>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=602DF7&center=true&vCenter=true&multiline=true&width=435&height=150&lines=print+(%22Eu+sou+Rafaela+Penafiel%22))](https://git.io/typing-svg)
+
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=rafaelapenafiel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
