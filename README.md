@@ -4,7 +4,7 @@
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=rafaelapenafiel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-rafaelas-projects-2dc11705.vercel.app/api?username=rafaelapenafiel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 <img src="https://github.com/user-attachments/assets/0527a5da-1c52-4209-ab1d-62d1e9300de2" alt="Pixel Art" align="right" width="354">
 ![](https://nirzak-streak-stats.vercel.app/?user=rafaelapenafiel&theme=nightowl&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelapenafiel&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
