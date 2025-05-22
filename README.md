@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=602DF7&center=true&vCenter=true&multiline=true&width=435&lines=print+(%22Eu+sou+Rafaela+Penafiel%22))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=C690EA&center=true&vCenter=true&multiline=true&width=435&lines=print+(%22Eu+sou+Rafaela+Penafiel%22))](https://git.io/typing-svg)
 
 </div>
 
