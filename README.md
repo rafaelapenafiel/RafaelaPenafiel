@@ -16,5 +16,5 @@
 
 ###
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,vscode,py,canva,figma,github,idea,java,jira,excel,jax,mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,vscode,py,canva,figma,github,idea,java,jira,mysql" />
 </div>
